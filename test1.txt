@@ -1,3 +1,7 @@
 hello this is today test file
+<<<<<<< HEAD
 testing git cherr:lwq
 y 
+=======
+testing git sherry 
+>>>>>>> 4afb80e... update cherry
